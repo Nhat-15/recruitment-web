@@ -1,0 +1,18 @@
+/HRMS
+│── db.php
+│── login.php
+│── logout.php
+│── Dashboard.php
+│── QLnhansu.php
+│── ThemNhanSu.php
+│── ChinhsuaNhanSu.php
+│── XoaNhanSu.php
+│── NhanSuChiTiet.php
+│── ChamCong.php
+│── BaoCaoLuong.php
+│── DonNghiPhep.php
+│── LeaveRequests.php
+│── jobs.php
+│── ungtuyen.php
+│── ungtuyen_submit.php
+│── applicants.php
